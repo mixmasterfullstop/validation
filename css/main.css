@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kurale&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Mukta:wght@600&display=swap');
+
+.card-title{
+    font-family: 'Mukta', sans-serif;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    text-decoration-color: white;
+    height: 50px;
+}
+.navbar-brand{
+    color: white;
+    font-family: 'Bangers', cursive;
+    font-size: large;
+    padding-left: 10px;
+
+}
+
+
+.btn-fullstop{
+    background-color:black;
+    color: white;
+    border:2px solid black;
+}
+.card-body{
+    align-items: center;
+}
+ body {
+    color: blueviolet;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+.card{
+    height: 280px;
+    width: 250px;
+    border-radius: 100px;
+}
+.nav-link{
+    color: white;
+}
+*{
+    font-family: 'Inconsolata', monospace;
+}
+.display-4{
+text-align: center;
+}
+.card-deck{
+    padding-left:10px;
+    padding-top: 10px;
+    margin: 10px;
+    padding-right: 10px;
+}
